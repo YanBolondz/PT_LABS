@@ -1,0 +1,14 @@
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.exe
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.deps.json
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.runtimeconfig.json
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.dll
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\bin\Debug\net8.0\OOP_SAMPLE.pdb
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.AssemblyInfoInputs.cache
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.AssemblyInfo.cs
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.csproj.CoreCompileInputs.cache
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.dll
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\refint\OOP_SAMPLE.dll
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.pdb
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\OOP_SAMPLE.genruntimeconfig.cache
+C:\Users\yanbo\Desktop\Visual studio Lab4\OOP_SAMPLE\OOP_SAMPLE\obj\Debug\net8.0\ref\OOP_SAMPLE.dll
