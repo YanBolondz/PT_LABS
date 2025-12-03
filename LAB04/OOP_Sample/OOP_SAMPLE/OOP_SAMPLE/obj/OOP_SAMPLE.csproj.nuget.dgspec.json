@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yanbo\\Desktop\\Visual studio Lab4\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj": {}
+    "C:\\Users\\yanbo\\Desktop\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yanbo\\Desktop\\Visual studio Lab4\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj": {
+    "C:\\Users\\yanbo\\Desktop\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yanbo\\Desktop\\Visual studio Lab4\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj",
+        "projectUniqueName": "C:\\Users\\yanbo\\Desktop\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj",
         "projectName": "OOP_SAMPLE",
-        "projectPath": "C:\\Users\\yanbo\\Desktop\\Visual studio Lab4\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj",
+        "projectPath": "C:\\Users\\yanbo\\Desktop\\OOP_SAMPLE\\OOP_SAMPLE\\OOP_SAMPLE.csproj",
         "packagesPath": "C:\\Users\\yanbo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yanbo\\Desktop\\Visual studio Lab4\\OOP_SAMPLE\\OOP_SAMPLE\\obj\\",
+        "outputPath": "C:\\Users\\yanbo\\Desktop\\OOP_SAMPLE\\OOP_SAMPLE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.AssemblyInfoInputs.cache
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.AssemblyInfo.cs
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.csproj.CoreCompileInputs.cache
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.sourcelink.json
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\bin\Debug\net8.0\OOP_Basics.exe
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\bin\Debug\net8.0\OOP_Basics.deps.json
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\bin\Debug\net8.0\OOP_Basics.runtimeconfig.json
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\bin\Debug\net8.0\OOP_Basics.dll
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\bin\Debug\net8.0\OOP_Basics.pdb
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.dll
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\refint\OOP_Basics.dll
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.pdb
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\OOP_Basics.genruntimeconfig.cache
+C:\PT_LABS\LAB04\OOP_Sample\OOP_Basics\OOP_Basics\obj\Debug\net8.0\ref\OOP_Basics.dll
